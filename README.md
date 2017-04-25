@@ -11,4 +11,8 @@ Ivan Bash
 =======
 Привет hkjhkh
 >>>>>>> 4dec7799f0e1a2626aa7a4070174031f4ba39990
+<<<<<<< HEAD
 Ivan BashIvan BashIvan BashIvan Bash
+=======
+Павлов
+>>>>>>> 9bd5654956c1c02ff87622d8d5abcd0e9a91c211
